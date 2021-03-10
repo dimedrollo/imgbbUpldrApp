@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">imgbbUpldr</string>
+    <string name="add_img">add Image</string>
+    <string name="link_copied">Link is copied to the clipboard</string>
+    <string name="string_set_timer">Set timer</string>
+    <string name="time_left">Time left: </string>
+</resources>

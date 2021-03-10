@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">imgbbUpldr</string>
+    <string name="add_img">Загрузить фото</string>
+    <string name="link_copied">Ссылка скопирована в буфер обмена</string>
+    <string name="string_set_timer">Установить таймер автоудаления</string>
+    <string name="time_left">"Удаление через: "</string>
+</resources>

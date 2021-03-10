@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/set_timer"
+        android:icon="@drawable/ic_baseline_timer_24"
+        android:title="@string/string_set_timer"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/new_img"
+        android:icon="@drawable/ic_baseline_add_photo_alternate_24"
+        android:title="@string/add_img"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>
